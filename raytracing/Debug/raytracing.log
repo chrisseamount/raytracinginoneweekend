@@ -1,2 +1,4 @@
 ﻿  main.cpp
+Q:\Documents\Visual Studio 2019\Projects\raytracing\raytracing\material.h(13,21): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+Q:\Documents\Visual Studio 2019\Projects\raytracing\raytracing\main.cpp(34,130): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
   raytracing.vcxproj -> Q:\Documents\Visual Studio 2019\Projects\raytracing\Debug\raytracing.exe
